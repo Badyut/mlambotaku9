@@ -25,7 +25,7 @@ I also enjoy participating in AI & ML competitions on platforms like Kaggle and 
 If you're interested in connecting or collaborating, please feel free to reach out:
 
 - Email: [mlambotaku9@gmail.com](mailto:your-email@domain.com)
-- GitHub: [https://github.com/mlambotaku9](https://github.com/mlambotaku9)](https://github.com/your-github-username)
+- GitHub: [https://github.com/mlambotaku9](https://github.com/mlambotaku9)]
 
 I look forward to connecting with you and exploring the world of AI and Machine Learning together!
 
